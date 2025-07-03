@@ -1,0 +1,36 @@
+.form_btn {
+  background-color: #20325D;
+  border-radius: 10px;
+  transition: all 0.2s;
+
+  &:hover {
+    box-shadow: 0px 0px 8px #fff;
+  }
+}
+
+.text_100 {
+  padding: 10px 20px;
+  font-size: 14px;
+}
+
+.text_200 {
+  padding: 15px 25px;
+  font-size: 20px;
+
+  @media only screen and (max-width: 450px){
+    padding: 12px 22px;
+    font-size: 17px;
+  }
+}
+
+.text_300 {
+  padding: 15px 25px;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+
+  @media only screen and (max-width: 450px){
+    padding: 10px 20px;
+    font-size: 17px;
+  }
+}
