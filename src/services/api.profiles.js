@@ -7,6 +7,7 @@ import michelOliveira from '../assets/images/servicos/ortopedia/profile_michel.j
 import amandaCarassini from '../assets/images/servicos/psicologia/profile_amanda.jpg'
 import aliceDutra from '../assets/images/servicos/medicina_esporte/profile_alice.jpg'
 import mariaEduarda from '../assets/images/servicos/nutricao/profile_maria.jpg'
+import kalianaNascimento from '../assets/images/servicos/cardio/IMG_5143.jpg'
 
 export default [
   {
@@ -64,15 +65,16 @@ export default [
   },
   {
     id: 5,
-    name: 'Amanda Carassini ',
-    specialization: 'Especialista em Análise do Comportamento Aplicada, com foco no desenvolvimento cognitivo, emocional e comportamental.',
-    description: 'Psicóloga graduada pela Universidade Presbiteriana Mackenzie, especialista em Análise do Comportamento Aplicada aos Transtornos do Neurodesenvolvimento e Linguagem pela UFSCar. Mestre em Ciência do Desenvolvimento Humano pelo Mackenzie, dedica-se ao estudo e à prática voltados ao desenvolvimento cognitivo, emocional e comportamental. Apaixonada por promover a qualidade de vida e o bem-estar, alia conhecimento científico à atuação clínica para oferecer um atendimento humanizado e eficaz.',
+    name: 'Kaliana Nascimento',
+    specialization: 'Cardiologista com foco em saúde esportiva.',
+    description: 'médica formada pela Universidade Federal de Pernambuco, com residência em Cardiologia e especialização em Cardiologia do Esporte pelo Instituto Dante Pazzanese, em São Paulo. Também tenho pós-graduação em Pesquisa Clínica pela Harvard T.H. Chan School of Public Health e sou instrutora certificada do curso ACLS pela American Heart Association.',
     education: [
-      'Graduada em psicologia pela universidade presbiteriana Mackenzie',
-      'Pós Graduada em análise do comportamento aplicada aos transtornos do Neuro desenvolvimento e linguagem pela Federal de São Carlos',
-      '⁠Mestre em ciência do desenvolvimento Humano pelo Mackenzie'
+      'Médica pela Universidade Federal de Pernambuco (UFPE)',
+      'Cardiologista e Fellow em Cardiologia do Esporte pelo Instituto Dante Pazzanese (SP)',
+      'Pós-graduação em Pesquisa Clínica – Harvard T.H. Chan School of Public Health',
+      'Instrutora certificada em ACLS pela American Heart Association'
     ],
-    profile: amandaCarassini,
+    profile: kalianaNascimento,
     leftSide: true
   },
   {

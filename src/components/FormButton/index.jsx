@@ -27,7 +27,7 @@ export default function FormButton({ classe, label }) {
     <a 
     href={
       label ? 
-      'https://api.whatsapp.com/send/?phone=5511994470472&text=Oi,+tudo+bem%3F+Gostaria+de+agendar+minha+visita.&type=phone_number&app_absent=0' :
+      'https://api.whatsapp.com/send/?phone=5511994470472&text=Olá,+tudo+bem%3F+Gostaria+de+agendar+minha+visita+na+clínica.&type=phone_number&app_absent=0' :
       'https://api.whatsapp.com/send/?phone=5511994470472&text=Oi,+tudo+bem%3F+Gostaria+de+agendar+minha+consulta.&type=phone_number&app_absent=0'  }
     className={`form_btn  ${classe}`}
     target='_blank'

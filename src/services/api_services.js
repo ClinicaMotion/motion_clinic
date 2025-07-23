@@ -3,6 +3,7 @@ import ortopediaBanner from '../assets/images/servicos/ortopedia/thumbnail.jpg'
 import esporteBanner from '../assets/images/servicos/medicina_esporte/thumbnail.jpg'
 import nutricaoBanner from '../assets/images/servicos/nutricao/thumbnail.jpg'
 import psicologiaBanner from '../assets/images/servicos/psicologia/thumbnail.jpg'
+import cardioBanner from '../assets/images/servicos/cardio/thumbnail.jpg'
 
 import fisioImage1 from '../assets/images/servicos/fisioterapia/IMG_9737.jpg'
 import fisioImage2 from '../assets/images/servicos/fisioterapia/IMG_9726.jpg'
@@ -11,6 +12,7 @@ import ortopediaImage from '../assets/images/servicos/ortopedia/IMG_9646.jpg'
 import medicinaEsporte from '../assets/images/servicos/medicina_esporte/IMG_9773.jpg'
 import nutricao from '../assets/images/servicos/nutricao/thumbnail.jpg'
 import psicologia from '../assets/images/servicos/psicologia/IMG_9660.jpg'
+import cardiologia from '../assets/images/servicos/cardio/thumbnail.jpg'
 
 export default [
   {
@@ -97,6 +99,21 @@ export default [
         title: 'Psicologia',
         description: 'Equilíbrio mental para uma vida em alto nível. A psicologia vai além da escuta — é um trabalho estratégico que fortalece a mente, aprimora a tomada de decisões e promove bem-estar duradouro. Com uma abordagem precisa e individualizada, auxiliamos no desenvolvimento emocional e no aprimoramento da performance pessoal e profissional, garantindo clareza, resiliência e qualidade de vida.',
         image: psicologia
+      }
+    ]
+  },
+  {
+    id: 6,
+    title: 'Cardiologia',
+    subTitle: 'Saúde cardiovascular para alcançar seus objetivos',
+    coverImg: cardioBanner,
+    linkTxt: 'cardiologia',
+    serviceDetail: [
+      {
+        id: 1,
+        title: 'cardiologia do esporte',
+        description: 'A Cardiologia do Esporte é uma área dedicada à avaliação, prevenção e acompanhamento da saúde cardiovascular de atletas e praticantes de atividade física — seja em nível amador ou profissional. Aqui, unimos o conhecimento técnico da cardiologia tradicional com as demandas específicas do exercício físico, oferecendo uma abordagem personalizada para quem busca performance com segurança. Seja para iniciar uma atividade física, otimizar o rendimento esportivo ou garantir que seu coração está preparado para os desafios do treino, o acompanhamento com um cardiologista do esporte é essencial. Realizamos avaliações completas, incluindo exames de aptidão, orientação para retorno ao esporte após lesões ou eventos cardíacos, e monitoramento contínuo para garantir saúde e alta performance.',
+        image: cardiologia
       }
     ]
   },
