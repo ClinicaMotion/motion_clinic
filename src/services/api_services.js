@@ -87,21 +87,21 @@ export default [
       }
     ]
   },
-  {
-    id: 5,
-    title: 'Psicologia',
-    subTitle: 'Saúde emocional e mental para uma vida mais equilibrada',
-    coverImg: psicologiaBanner,
-    linkTxt: 'psicologia',
-    serviceDetail: [
-      {
-        id: 1,
-        title: 'Psicologia',
-        description: 'Equilíbrio mental para uma vida em alto nível. A psicologia vai além da escuta — é um trabalho estratégico que fortalece a mente, aprimora a tomada de decisões e promove bem-estar duradouro. Com uma abordagem precisa e individualizada, auxiliamos no desenvolvimento emocional e no aprimoramento da performance pessoal e profissional, garantindo clareza, resiliência e qualidade de vida.',
-        image: psicologia
-      }
-    ]
-  },
+  // {
+  //   id: 5,
+  //   title: 'Psicologia',
+  //   subTitle: 'Saúde emocional e mental para uma vida mais equilibrada',
+  //   coverImg: psicologiaBanner,
+  //   linkTxt: 'psicologia',
+  //   serviceDetail: [
+  //     {
+  //       id: 1,
+  //       title: 'Psicologia',
+  //       description: 'Equilíbrio mental para uma vida em alto nível. A psicologia vai além da escuta — é um trabalho estratégico que fortalece a mente, aprimora a tomada de decisões e promove bem-estar duradouro. Com uma abordagem precisa e individualizada, auxiliamos no desenvolvimento emocional e no aprimoramento da performance pessoal e profissional, garantindo clareza, resiliência e qualidade de vida.',
+  //       image: psicologia
+  //     }
+  //   ]
+  // },
   {
     id: 6,
     title: 'Cardiologia',
