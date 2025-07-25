@@ -111,7 +111,7 @@ export default [
     serviceDetail: [
       {
         id: 1,
-        title: 'cardiologia do esporte',
+        title: 'Cardiologia do Esporte',
         description: 'A Cardiologia do Esporte é uma área dedicada à avaliação, prevenção e acompanhamento da saúde cardiovascular de atletas e praticantes de atividade física — seja em nível amador ou profissional. Aqui, unimos o conhecimento técnico da cardiologia tradicional com as demandas específicas do exercício físico, oferecendo uma abordagem personalizada para quem busca performance com segurança. Seja para iniciar uma atividade física, otimizar o rendimento esportivo ou garantir que seu coração está preparado para os desafios do treino, o acompanhamento com um cardiologista do esporte é essencial. Realizamos avaliações completas, incluindo exames de aptidão, orientação para retorno ao esporte após lesões ou eventos cardíacos, e monitoramento contínuo para garantir saúde e alta performance.',
         image: cardiologia
       }
